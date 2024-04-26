@@ -1,0 +1,26 @@
+# Blender 3.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl am_wbks0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd am_wbks0.PNG
+map_d am_wbks0.PNG
+
+newmtl am_wbks0_Light
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd am_wbks0.PNG
+map_d am_wbks0.PNG
