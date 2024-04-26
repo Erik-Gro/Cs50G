@@ -1,7 +1,5 @@
 # My finale project for CS50G
 
----
-
 ## Description
 
 As a finale project i created level using unity engine from my favorite childhood game "Shadow the hedghehog". Especialy i was working on implementing all mecanics that i liked the most as a child.
