@@ -74,12 +74,12 @@ public class Player : MonoBehaviour
  
     void Update()
     {
-         Move = false;
-         shoot = false;
-         Jump = false;
         if(tookDamage||attack||hasForce||seekingRing){
             return;
         }
+         Move = false;
+         shoot = false;
+         Jump = false;
         if (Input.GetKey(KeyCode.X)){
             seekingRing = true;
         }

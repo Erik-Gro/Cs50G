@@ -30,7 +30,7 @@ public class Ring : MonoBehaviour
         if (other.tag == "Player"){
             playerScript.rings++;
             textElement.text = "rings : " + playerScript.rings.ToString();
-            SoundManager.instance.PlaySoundFXClip(RingCollect,transform,0.1f);
+            SoundManager.instance.PlaySoundFXClip(RingCollect,transform,0.03f);
             Destroy(transform.parent.gameObject);
     }
     }
